@@ -1,6 +1,7 @@
 <?php
-	
-	# Paul Calvano, Akamai Technologies
+	# @author Paul Calvano
+	# @license MIT
+	# @copyright 2019 Akamai Technologies, Inc.	
 	# Gzip and Brotli Compression Estimator
 	# Takes 1 parameter (q=) and outputs a JSON array containing gzip and brotli compression stats
 
